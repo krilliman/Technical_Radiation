@@ -1,0 +1,9 @@
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\bin\Debug\netstandard2.0\TechnicalRadiation.Models.deps.json
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\bin\Debug\netstandard2.0\TechnicalRadiation.Models.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\bin\Debug\netstandard2.0\TechnicalRadiation.Models.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.csprojAssemblyReference.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.AssemblyInfoInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.AssemblyInfo.cs
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Models\obj\Debug\netstandard2.0\TechnicalRadiation.Models.pdb

@@ -1,0 +1,12 @@
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\bin\Debug\netstandard2.0\TechnicalRadiation.Repositories.deps.json
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\bin\Debug\netstandard2.0\TechnicalRadiation.Repositories.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\bin\Debug\netstandard2.0\TechnicalRadiation.Repositories.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\bin\Debug\netstandard2.0\TechnicalRadiation.Models.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\bin\Debug\netstandard2.0\TechnicalRadiation.Models.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.csprojAssemblyReference.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.AssemblyInfoInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.AssemblyInfo.cs
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.csproj.CopyComplete
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Repositories\obj\Debug\netstandard2.0\TechnicalRadiation.Repositories.pdb

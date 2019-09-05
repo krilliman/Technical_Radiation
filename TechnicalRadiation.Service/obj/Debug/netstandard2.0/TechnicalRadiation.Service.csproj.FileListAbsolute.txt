@@ -1,0 +1,14 @@
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Service.deps.json
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Service.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Service.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Models.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Repositories.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Models.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\bin\Debug\netstandard2.0\TechnicalRadiation.Repositories.pdb
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.csprojAssemblyReference.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.csproj.CoreCompileInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.AssemblyInfoInputs.cache
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.AssemblyInfo.cs
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.csproj.CopyComplete
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.dll
+C:\Users\Kristmann Ingi\Documents\Uni\VEFT\Technical_Radiation\TechnicalRadiation.Service\obj\Debug\netstandard2.0\TechnicalRadiation.Service.pdb

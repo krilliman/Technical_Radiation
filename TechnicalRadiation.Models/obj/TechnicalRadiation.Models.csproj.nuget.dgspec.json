@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kristmann Ingi\\Documents\\Uni\\VEFT\\Technical_Radiation\\TechnicalRadiation.Models\\TechnicalRadiation.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kristmann Ingi\\Documents\\Uni\\VEFT\\Technical_Radiation\\TechnicalRadiation.Models\\TechnicalRadiation.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kristmann Ingi\\Documents\\Uni\\VEFT\\Technical_Radiation\\TechnicalRadiation.Models\\TechnicalRadiation.Models.csproj",
+        "projectName": "TechnicalRadiation.Models",
+        "projectPath": "C:\\Users\\Kristmann Ingi\\Documents\\Uni\\VEFT\\Technical_Radiation\\TechnicalRadiation.Models\\TechnicalRadiation.Models.csproj",
+        "packagesPath": "C:\\Users\\Kristmann Ingi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristmann Ingi\\Documents\\Uni\\VEFT\\Technical_Radiation\\TechnicalRadiation.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kristmann Ingi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
